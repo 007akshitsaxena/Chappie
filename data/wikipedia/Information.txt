@@ -1,0 +1,1 @@
+Here you have your sqlite db and tf-idf model stored.
