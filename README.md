@@ -56,7 +56,7 @@ For that I will refer you [here.](https://github.com/facebookresearch/DrQA/tree/
 
 I have used Flask for creating a web server which you can check out here `scripts/pipeline/server.py`
 
-## Acknowledgments
+## Acknowledgements
 - Android application by @KSdhanjal
 
 ## References
