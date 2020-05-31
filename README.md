@@ -1,4 +1,4 @@
-# Chappie : Q/A android application
+# Chappie : Android application for Q/A
 This project aims at developing a system which organizations/startups can use to improve customer experience. In AI any system in which machines can comprehend and answers the questions on its own generally called Chatbots.
 
 ## System Architecture
